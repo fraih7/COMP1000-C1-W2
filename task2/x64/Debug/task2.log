@@ -1,0 +1,4 @@
+﻿  task2-functions.cpp
+C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\task2\task2-functions.cpp(51,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\task2\task2-functions.cpp(67,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task2.vcxproj -> C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\x64\Debug\task2.exe
