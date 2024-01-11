@@ -1,0 +1,4 @@
+﻿  task3_functions.cpp
+C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\task3\task3_functions.cpp(34,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\task3\task3_functions.cpp(44,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  task3.vcxproj -> C:\Users\Kn0wn Thr3at\Music\2024\Jan\cpp\tasks\x64\Debug\task3.exe
